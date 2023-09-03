@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+    width:100%;
+    justify-content: space-around;
+}
+
+.logo{
+    color: #012555;
+    font-size: 21.71px;
+    font: Bai Jamjuree;
+    padding: 10px;
+}
+.NSDL>.NSDL-logo{
+    padding-left: 5px;
+}
+.navbar{
+    margin-left: 15px;
+     text-decoration: none;
+     color: Gray2;
+     font-size: 16px;
+     justify-content: space-around;
+}
+.update{
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.Text{
+    width:60%;
+    margin-left: 110px;
+}
+.Accio-Information{
+    
+    margin-top: 112px;
+
+}
+.Accio-Information>.Full-stack{
+
+    width: 674px;
+    font-size: 50px;
+}
+.Accio-Information>.Curriculum{
+    width: 492px;
+    font-size: 18px;
+    color: #525252;
+    margin-top: 12px;
+}
+.Features{
+    padding: 35px;
+    align-items: center;
+    margin-top: 35px;
+    margin-left: 110px;
+    justify-content: space-around;
+}
+.card{
+    width: 415px;
+    height: 496px;
+    padding: 30px;
+    border-radius: 20px;
+    font-display: flex;
+    box-sizing: border-box;
+    box-shadow: 0 8px 16px rgba(0,0,0,1) ;
+}
+
+.card>.card-info{
+    width: 278px;
+    height: 48px;
+    color: #818D9D;
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card>.Name{
+    align-items: center;
+    height: 52px;
+    width: 366px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border: none;
+}
+.card>.No{
+    align-items: center;
+    height: 52px;
+    width: 366px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border: none;
+}
+
+.card>.btn{
+    color: white;
+    background-color: #2F80ED;
+}
+.card>.footer{
+    align-items: center;
+    font-size: 14px;
+    justify-content: space-between;
+    margin-top: 14px;
+    display: flex;
+}
